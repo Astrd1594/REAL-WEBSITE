@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(27, 27, 27) !important;
+}
+textarea{
+    color:lightgrey !important;
+    background-color:rgb(37, 37, 37) !important;
+    border-width: 0px !important;
+    width:99%!important;
+    margin-top:10px!important;
+    cursor:pointer;
+    box-shadow:none!important;
+    height:750px!important;
+    transition: all 0.3s ease-in-out !important;
+}
+textarea:hover{
+    background-color: rgb(47, 47, 47) !important;
+}
+button{
+    background-color:rgb(37, 37, 37);
+    color:lightgrey!important;
+    width:10%;
+    border-radius:5px;
+    border-width:0px;
+    padding-top:7px;
+    padding-bottom:7px;
+    font-size:25px;
+    transition:all 0.2s ease-in-out!important;
+}
+button:hover{
+    color:rgb(64, 224, 131)!important;
+    background-color:rgb(47, 47, 47);
+}
+button:active{
+    transition: all 0s ease-in-out !important;
+    color: rgb(42, 133, 80) !important;
+    background-color: rgb(57, 57, 57);
+}
+#arialfont{
+    font-family:Arial, Helvetica, sans-serif;
+}
